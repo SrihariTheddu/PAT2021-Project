@@ -1,35 +1,35 @@
 # PAT2021-Project
 
-##Introduction
+#Introduction
 This is an Web Application to track the performance of a student in competetive programming of particular institution
 It tracks the performance of a a particular student on different platforms.And their supervisors can able to moniter the performance of student.
 
-##Tools Used
+#Tools Used
 In this application we use python Django Frame Work, In addition with traditional markup languages......
 Backend  :-   Python Django Web Frame work
 Frontend :-   HTML,CSS and JAVASCRIPT
 
-##Layout
+#Layout
    Here is the Directory of our project
-   ###mysite
-   ####__init__.py
-   ####settings.py
-   ####urls.py
-   ####asgi.py
-   ###myapp
-   ####__init__.py
-   ####admin.py
-   ####models.py
-   ####test.py
-   ####urls.py
-   ####views.py
-   ###static
-   ####designs
-   ####root
-   ###Templates
-   ####Contains all web Templates
-   ###manage.py
-   ###db.sqlite3
+   ##mysite
+   __init__.py
+   settings.py
+   urls.py
+   asgi.py
+   ##myapp
+   __init__.py
+   admin.py
+   models.py
+   test.py
+   urls.py
+   views.py
+   ##static
+   designs
+   root
+   ##Templates
+   Contains all web Templates
+   #manage.py
+   #db.sqlite3
    
  ##Installation
   
