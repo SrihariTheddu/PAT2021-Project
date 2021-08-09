@@ -13,27 +13,27 @@ Frontend :-   HTML,CSS and JAVASCRIPT
    Here is the Directory of our project
    >mysite
    __init__.py
-   *settings.py
-   *urls.py
-   *asgi.py
+   settings.py
+   urls.py
+   asgi.py
    >myapp
-   *__init__.py
-   *admin.py
-   *models.py
-   *test.py
-   *urls.py
-   *views.py
+   __init__.py
+   admin.py
+   models.py
+   test.py
+   urls.py
+   views.py
    >static
-   *designs
-   *root
+   designs
+   root
    >Templates
    Contains all web Templates
    >manage.py
    >db.sqlite3
    
- ##Installation
+ #Installation
   
-  ### Follow the steps to setup the projecct
+   Follow the steps to setup the projecct
   
   first of all, you need to check that django framework is installed on your machine
      
