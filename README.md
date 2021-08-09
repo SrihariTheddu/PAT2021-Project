@@ -11,25 +11,25 @@ Frontend :-   HTML,CSS and JAVASCRIPT
 
 #Layout
    Here is the Directory of our project
-   ##mysite
+   >mysite
    __init__.py
-   settings.py
-   urls.py
-   asgi.py
-   ##myapp
-   __init__.py
-   admin.py
-   models.py
-   test.py
-   urls.py
-   views.py
-   ##static
-   designs
-   root
-   ##Templates
+   *settings.py
+   *urls.py
+   *asgi.py
+   >myapp
+   *__init__.py
+   *admin.py
+   *models.py
+   *test.py
+   *urls.py
+   *views.py
+   >static
+   *designs
+   *root
+   >Templates
    Contains all web Templates
-   #manage.py
-   #db.sqlite3
+   >manage.py
+   >db.sqlite3
    
  ##Installation
   
